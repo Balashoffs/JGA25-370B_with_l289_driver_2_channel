@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "standv2.kicad_pro",
+    "filename": "JGA25-370B_with_l289_driver_2_channel.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -423,8 +423,7 @@
       "12V": "12V",
       "3.3V": "3.3V",
       "5V": "5V",
-      "Net-(R1-Pad1)": "5V",
-      "Net-(R10-Pad1)": "5V"
+      "Net-(R1-Pad1)": "5V"
     },
     "netclass_patterns": []
   },
@@ -432,7 +431,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
